@@ -1,7 +1,7 @@
 ## Example
 ```dart
 import 'dart:async';
-import 'package:languagetool/languagetool.dart';
+import 'package:languagetool_dart/languagetool_dart.dart';
 
 main() {
   LanguageTool lt = new LanguageTool('../LanguageTool-2.3');
