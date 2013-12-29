@@ -1,0 +1,6 @@
+name: languagetool_Dart
+version: 0.0.1
+author: Nawaf Alsallami
+description: Dart wrapper for LanguageTool proofreading software.
+dependencies:
+  observe: any
